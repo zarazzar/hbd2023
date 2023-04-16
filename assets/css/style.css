@@ -536,7 +536,9 @@ h6,
   color: #fff;
   background: #fd680e;
 }
-
+.roundimeg {
+  border-radius: 5%;
+}
 #hero .php-email-form button[type=submit]:hover {
   background: #fd8841;
 }
